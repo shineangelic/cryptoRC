@@ -1,4 +1,4 @@
-package it.criptorc;
+package it.criptorc.enums;
 
 public enum GommeEnum {
 SPIKE, RALLY, ROAD;

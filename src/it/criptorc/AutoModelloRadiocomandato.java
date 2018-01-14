@@ -1,5 +1,6 @@
 package it.criptorc;
 
+import it.criptorc.enums.GommeEnum;
 import it.criptorc.enums.GommeMescolaEnum;
 
 public  class AutoModelloRadiocomandato implements IModelloRadiocomandato{
