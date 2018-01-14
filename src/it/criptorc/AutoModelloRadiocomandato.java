@@ -1,5 +1,17 @@
 package it.criptorc;
 
-public abstract class AutoModelloRadiocomandato implements IModelloRadiocomandato{
+import it.criptorc.enums.GommeMescolaEnum;
 
+public  class AutoModelloRadiocomandato implements IModelloRadiocomandato{
+
+	public final int NUM_RUOTE = 4;
+	
+	private GommeMescolaEnum mescola;
+	private GommeEnum gomme;
+	
+	private Esc esc;
+	private Motore motore;
+	
+	
+	
 }
